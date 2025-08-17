@@ -1,6 +1,6 @@
 # Rangkasbitung - Kota Seribu Bambu
 
-![Rangkasbitung](img/Rangkasbitung.jpeg)
+![Rangkasbitung](img/Tangkapan Layar 2025-08-17 pukul 08.22.05.png)
 
 Website resmi pariwisata Rangkasbitung, kota yang dikenal sebagai "Kota Seribu Bambu". Website ini menampilkan informasi tentang sejarah, tempat wisata, dan kuliner khas Rangkasbitung.
 
@@ -15,18 +15,18 @@ Website resmi pariwisata Rangkasbitung, kota yang dikenal sebagai "Kota Seribu B
 
 ### Tempat Wisata
 
-![Curug Bidadari](img/curugbidadari.jpeg)
+![Curug Bidadari]
 *Curug Bidadari - Salah satu air terjun indah di Rangkasbitung*
 
-![Rumah Kasepuhan](img/rumahkasepuhan.jpg)
+![Rumah Kasepuhan]
 *Rumah Kasepuhan - Warisan budaya Rangkasbitung*
 
 ### Kuliner Khas
 
-![Sate Bandeng](img/satebandeng.jpeg)
+![Sate Bandeng]
 *Sate Bandeng - Makanan khas Rangkasbitung*
 
-![Rabeg](img/rabeg.jpeg)
+![Rabeg]
 *Rabeg - Makanan tradisional khas Banten*
 
 ## Teknologi yang Digunakan
