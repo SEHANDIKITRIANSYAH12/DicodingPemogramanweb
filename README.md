@@ -1,6 +1,6 @@
 # Rangkasbitung - Kota Seribu Bambu
 
-![Rangkasbitung](img/Tangkapan Layar 2025-08-17 pukul 08.22.05.png)
+![Rangkasbitung](img/hasilproject.png)
 
 Website resmi pariwisata Rangkasbitung, kota yang dikenal sebagai "Kota Seribu Bambu". Website ini menampilkan informasi tentang sejarah, tempat wisata, dan kuliner khas Rangkasbitung.
 
