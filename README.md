@@ -11,6 +11,24 @@ Website resmi pariwisata Rangkasbitung, kota yang dikenal sebagai "Kota Seribu B
 - **Wisata** - Daftar tempat wisata populer di Rangkasbitung
 - **Kuliner** - Kuliner khas Rangkasbitung yang wajib dicoba
 
+## Galeri
+
+### Tempat Wisata
+
+![Curug Bidadari](img/curugbidadari.jpeg)
+*Curug Bidadari - Salah satu air terjun indah di Rangkasbitung*
+
+![Rumah Kasepuhan](img/rumahkasepuhan.jpg)
+*Rumah Kasepuhan - Warisan budaya Rangkasbitung*
+
+### Kuliner Khas
+
+![Sate Bandeng](img/satebandeng.jpeg)
+*Sate Bandeng - Makanan khas Rangkasbitung*
+
+![Rabeg](img/rabeg.jpeg)
+*Rabeg - Makanan tradisional khas Banten*
+
 ## Teknologi yang Digunakan
 
 - HTML5
